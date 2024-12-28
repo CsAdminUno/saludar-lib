@@ -1,0 +1,15 @@
+{
+  "name": "saludar-lib",
+  "version": "1.0.0",
+  "description": "Una libreria simple para probar desde la nube",
+  "main": "saludar.js",
+  "scripts": {
+    "test": "echo \"Error: NO especificado\" && exit 1"
+  },
+  "keywords": [
+    "probar",
+    "libreria"
+  ],
+  "author": "FGalan",
+  "license": "MIT"
+}
